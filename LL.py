@@ -8,3 +8,7 @@ for i in range(a):
 print(b)
 print(b)
 print(b)
+
+
+print(C)
+print(C)
