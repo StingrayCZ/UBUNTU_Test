@@ -11,4 +11,5 @@ print(b)
 
 
 print(E)
-print(E)
+print("D")
+print("D")
